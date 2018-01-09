@@ -10,6 +10,7 @@
 ## Component Libraries
   * [Catalog of React Components](https://github.com/brillout/awesome-react-components)
   * [Material UI](http://www.material-ui.com/)
+  * [11 React Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
 
 ## Mock Server
  * [Rapid Development via Mock APIs](https://medium.freecodecamp.org/rapid-development-via-mock-apis-e559087be066)
