@@ -3,7 +3,7 @@
 ## React Concepts
  * [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
  * [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
- * React Context 
+### React Context 
   * [How to use React's Provider Pattern](https://www.robinwieruch.de/react-provider-pattern-context/)
   * [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc)
   * [Roll your own Provider and connect with recompose](https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompose-ceb73ba29dd3)
