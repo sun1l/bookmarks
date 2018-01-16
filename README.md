@@ -8,6 +8,7 @@
 * [React AJAX Best Practices](https://www.andrewhfarmer.com/react-ajax-best-practices/)
 * [Fetching API Data with React.JS](https://blog.hellojs.org/fetching-api-data-with-react-js-460fe8bbf8f2)
 * [How to build React apps on top of the WordPress REST API](https://medium.freecodecamp.org/how-to-build-react-apps-on-top-of-the-wordpress-rest-api-bcc632808025)
+* [https://www.robinwieruch.de/react-fetching-data/](https://www.robinwieruch.de/react-fetching-data/)
 
 ### React Context 
   * [How to use React's Provider Pattern](https://www.robinwieruch.de/react-provider-pattern-context/)
@@ -15,6 +16,7 @@
   * [Roll your own Provider and connect with recompose](https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompose-ceb73ba29dd3)
 ### Higher-Order Components
 * [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+* (A gentle Introduction to React's Higher Order Components)[https://www.robinwieruch.de/gentle-introduction-higher-order-components/]
 
 ## Tutorials (Paid)
   * [Building Applications with React and Redux in ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
