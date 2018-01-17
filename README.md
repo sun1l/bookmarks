@@ -1,6 +1,7 @@
 # Learn React 
 
 ## React Concepts
+ * [Learn React Fundamentals and Advanced Patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
  * [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
  * [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
  * [Atomic Components: Managing Dynamic React Components using Atomic Design](https://medium.com/@yejodido/atomic-components-managing-dynamic-react-components-using-atomic-design-part-1-5f07451f261f)
@@ -17,7 +18,10 @@
   * [Roll your own Provider and connect with recompose](https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompose-ceb73ba29dd3)
 ### Higher-Order Components
 * [Higher-Order Components @ reactjs.org](https://reactjs.org/docs/higher-order-components.html)
-* (A gentle Introduction to React's Higher Order Components)[https://www.robinwieruch.de/gentle-introduction-higher-order-components/]
+* [A gentle Introduction to React's Higher Order Components](https://www.robinwieruch.de/gentle-introduction-higher-order-components/)
+* [Handle loadings in React by using Higher Order Components](https://medium.com/@Farzad_YZ/handle-loadings-in-react-by-using-higher-order-components-2ee8de9c3deb)
+* [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
+* [esphen/fetch-hoc](https://github.com/esphen/fetch-hoc)
 
 ## Tutorials (Paid)
   * [Building Applications with React and Redux in ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
@@ -26,6 +30,7 @@
   * [Catalog of React Components](https://github.com/brillout/awesome-react-components)
   * [Material UI](http://www.material-ui.com/)
   * [11 React Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
+  * [Best UI Frameworks for your new React.js App](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651)
 
 ## Mock Server
  * [Rapid Development via Mock APIs](https://medium.freecodecamp.org/rapid-development-via-mock-apis-e559087be066)
@@ -38,6 +43,12 @@
   * [React Router v4: The Complete Guide Related Topics:](https://www.sitepoint.com/react-router-v4-complete-guide/)
   * [Understanding React Router 4](https://medium.com/@AkyunaAkish/understanding-react-router-4-df73a66d96c4)
   * [All About React Router 4](https://css-tricks.com/react-router-4/)
+  * [Getting Started with React Router v4](https://themeteorchef.com/tutorials/getting-started-with-react-router-v4)
+  * [WithRouter-Advanced Features of React Router for Single Page Apps](https://hackernoon.com/withrouter-advanced-features-of-react-router-for-single-page-apps-42b2a1a0d315)
+#### Preloading Data
+  * [Fetching route data during a route transition using react router 4](https://medium.com/@kellyrmilligan/fetching-route-data-during-a-route-transition-using-react-router-4-eb9215ed88c0)
+  * [Add example for preloading data before navigate](https://github.com/ReactTraining/react-router/issues/4407)
+  * [Define the data to fetch in a declarative way with React](http://arqex.com/1058/define-the-data-to-fetch-declaratively-with-react)
   
   ## React Universal Rendering
    * [paypal/react-engine](https://github.com/paypal/react-engine)
