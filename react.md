@@ -56,9 +56,10 @@
    * https://github.com/reactjs/express-react-views
    * [React Server Side Rendering With Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
    
-   ## More...
+   ## More ...
     * [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
     * https://rangle-io.gitbooks.io/react-training/content/
+    * https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html
    
    
    
