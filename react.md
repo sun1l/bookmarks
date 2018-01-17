@@ -56,6 +56,12 @@
    * https://github.com/reactjs/express-react-views
    * [React Server Side Rendering With Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
    
+## Testing
+ * [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f)
+ 
+ ## React Training
+  * [React.js Training](https://rangle-io.gitbooks.io/react-training/content/)
+   
    ## More ...
     * [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
     * https://rangle-io.gitbooks.io/react-training/content/
