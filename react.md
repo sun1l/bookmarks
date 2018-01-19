@@ -61,7 +61,11 @@
  * [How to use Redux on highly scalable javascript applications?](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38)
  * [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
  * [React Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md)
-  
+ * [Structure your React-Redux project for scalability and maintainability](https://levelup.gitconnected.com/structure-your-react-redux-project-for-scalability-and-maintainability-618ad82e32b7)
+
+## Advance Topics
+ * [Code Splitting with React and React Router](https://medium.freecodecamp.org/code-splitting-with-react-and-react-router-62e174382d4c)
+
 ## React Universal Rendering
  * [paypal/react-engine](https://github.com/paypal/react-engine)
  * [Isomorphic React Apps with React-Engine](https://www.paypal-engineering.com/2015/04/27/isomorphic-react-apps-with-react-engine/)
