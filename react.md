@@ -2,6 +2,7 @@
 
 ## React Concepts
  * [React Components @ reactjs.org](https://reactjs.org/docs/react-component.html)
+ * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
  * [Learn React Fundamentals and Advanced Patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
  * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
  * [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
@@ -51,6 +52,8 @@
  * [All About React Router 4](https://css-tricks.com/react-router-4/)
  * [Getting Started with React Router v4](https://themeteorchef.com/tutorials/getting-started-with-react-router-v4)
  * [WithRouter-Advanced Features of React Router for Single Page Apps](https://hackernoon.com/withrouter-advanced-features-of-react-router-for-single-page-apps-42b2a1a0d315)
+ * [Protected routes and authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication/)
+ 
 ### Preloading Data
   * [Fetching route data during a route transition using react router 4](https://medium.com/@kellyrmilligan/fetching-route-data-during-a-route-transition-using-react-router-4-eb9215ed88c0)
   * [Add example for preloading data before navigate](https://github.com/ReactTraining/react-router/issues/4407)
