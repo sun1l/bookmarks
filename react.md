@@ -5,6 +5,7 @@
  * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
  * [Learn React Fundamentals and Advanced Patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
  * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
+ * [Patterns for React Developers](https://github.com/chantastic/reactpatterns.com)
  * [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
  * [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
  * [Atomic Components: Managing Dynamic React Components using Atomic Design](https://medium.com/@yejodido/atomic-components-managing-dynamic-react-components-using-atomic-design-part-1-5f07451f261f)
