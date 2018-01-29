@@ -88,4 +88,5 @@
  * https://rangle-io.gitbooks.io/react-training/content/
  * https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html
  * [Example of blog built with React, Next.js, Firebase Firestore, Styled-Component, Mobx State Tree and other cool technologies](https://github.com/suevalov/next-blog-firestore)
+ * [Migrating To React Native: Top-20 Case Studies From Well-Known Companies](https://belitsoft.com/react-native-development/migrating-react-native-top-20-case-studies-well-known-companies)
    
