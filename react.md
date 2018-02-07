@@ -79,6 +79,10 @@
 ## Testing
  * [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f)
  
+## Security
+  * [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
+  * [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
+ 
 ## React Training
   * [React.js Training](https://rangle-io.gitbooks.io/react-training/content/)
    
