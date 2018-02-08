@@ -68,6 +68,7 @@
  * [Structure your React-Redux project for scalability and maintainability](https://levelup.gitconnected.com/structure-your-react-redux-project-for-scalability-and-maintainability-618ad82e32b7)
 
 ## Advance Topics
+ * [React’s new Context API](https://dev.to/kentcdodds/reacts--new-context-api-dpi)
  * [Code Splitting with React and React Router](https://medium.freecodecamp.org/code-splitting-with-react-and-react-router-62e174382d4c)
 
 ## React Universal Rendering
