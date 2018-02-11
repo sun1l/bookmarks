@@ -6,6 +6,7 @@
 ## Git Submodule / Subtree
  * [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
  * [Mastering Git subtrees](https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec)
+ * [Dev Workflow Using Git Submodules and Yarn Workspaces](https://blog.nrwl.io/dev-workflow-using-git-submodules-and-yarn-workspaces-14fd06c07964)
  * [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
  * [git subtree - a better alternative to git submodule](http://alistra.ghost.io/2014/11/30/git-subtree-a-better-alternative-to-git-submodule/)
  * [Why your company shouldn’t use Git submodules](https://codingkilledthecat.wordpress.com/2012/04/28/why-your-company-shouldnt-use-git-submodules/)
