@@ -1,5 +1,8 @@
 # Learn React 
 
+## Books
+ * [React.js Training](https://rangle-io.gitbooks.io/react-training/content/)
+
 ## React Concepts
  * [React Components @ reactjs.org](https://reactjs.org/docs/react-component.html)
  * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
