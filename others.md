@@ -17,5 +17,5 @@
  * [Improving Smashing Magazine's Web Performance](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/)
 
 ## NPM Link, Webpack and Babel
-  * [How to exclude node_modules but one] (https://github.com/webpack/webpack/issues/2031)
-  * [How to handle npm modules which include es6] (https://github.com/babel/babel-loader/issues/171)
+  * [How to exclude node_modules but one](https://github.com/webpack/webpack/issues/2031)
+  * [How to handle npm modules which include es6](https://github.com/babel/babel-loader/issues/171)
