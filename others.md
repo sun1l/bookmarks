@@ -15,3 +15,7 @@
 ## Performance
  * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
  * [Improving Smashing Magazine's Web Performance](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/)
+
+## NPM Link, Webpack and Babel
+  * [How to exclude node_modules but one] (https://github.com/webpack/webpack/issues/2031)
+  * [How to handle npm modules which include es6] (https://github.com/babel/babel-loader/issues/171)
