@@ -57,6 +57,7 @@
  * [Getting Started with React Router v4](https://themeteorchef.com/tutorials/getting-started-with-react-router-v4)
  * [WithRouter-Advanced Features of React Router for Single Page Apps](https://hackernoon.com/withrouter-advanced-features-of-react-router-for-single-page-apps-42b2a1a0d315)
  * [Protected routes and authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication/)
+ * [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components/)
  
 ### Preloading Data
   * [Fetching route data during a route transition using react router 4](https://medium.com/@kellyrmilligan/fetching-route-data-during-a-route-transition-using-react-router-4-eb9215ed88c0)
