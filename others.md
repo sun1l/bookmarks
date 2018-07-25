@@ -17,9 +17,13 @@
  * [Improving Smashing Magazine's Web Performance](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/)
 
 ## NPM Link, Webpack and Babel
-  * [How to exclude node_modules but one](https://github.com/webpack/webpack/issues/2031)
-  * [How to handle npm modules which include es6](https://github.com/babel/babel-loader/issues/171)
+ * [How to exclude node_modules but one](https://github.com/webpack/webpack/issues/2031)
+ * [How to handle npm modules which include es6](https://github.com/babel/babel-loader/issues/171)
 
 ## PWA
-  * [Progressive Web Apps: A Crash Course](https://www.sitepoint.com/progressive-web-apps-a-crash-course/)
-  * [Service Worker Precache](https://github.com/GoogleChromeLabs/sw-precache)
+ * [Progressive Web Apps: A Crash Course](https://www.sitepoint.com/progressive-web-apps-a-crash-course/)
+ * [Service Worker Precache](https://github.com/GoogleChromeLabs/sw-precache)
+
+## Webpack
+ * [webpack + PostCSS + cssnext](https://blog.envylabs.com/webpack-2-postcss-cssnext-fdcd2fd7d0bd)
+ * [prefetch/preload in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
