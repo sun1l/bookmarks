@@ -7,8 +7,11 @@
  * [React Components @ reactjs.org](https://reactjs.org/docs/react-component.html)
  * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
  * [Learn React Fundamentals and Advanced Patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
+ * [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
  * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
  * [Patterns for React Developers](https://github.com/chantastic/reactpatterns.com)
+ * [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
+ * [React Best Practices and Useful Functions](https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21)
  * [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
  * [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
  * [Atomic Components: Managing Dynamic React Components using Atomic Design](https://medium.com/@yejodido/atomic-components-managing-dynamic-react-components-using-atomic-design-part-1-5f07451f261f)
@@ -60,20 +63,30 @@
  * [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components/)
  
 ### Preloading Data
-  * [Fetching route data during a route transition using react router 4](https://medium.com/@kellyrmilligan/fetching-route-data-during-a-route-transition-using-react-router-4-eb9215ed88c0)
-  * [Add example for preloading data before navigate](https://github.com/ReactTraining/react-router/issues/4407)
-  * [Define the data to fetch in a declarative way with React](http://arqex.com/1058/define-the-data-to-fetch-declaratively-with-react)
+ * [Fetching route data during a route transition using react router 4](https://medium.com/@kellyrmilligan/fetching-route-data-during-a-route-transition-using-react-router-4-eb9215ed88c0)
+ * [Add example for preloading data before navigate](https://github.com/ReactTraining/react-router/issues/4407)
+ * [Define the data to fetch in a declarative way with React](http://arqex.com/1058/define-the-data-to-fetch-declaratively-with-react)
   
 ## Architecture
  * [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
  * [How to use Redux on highly scalable javascript applications?](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38)
  * [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
  * [React Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md)
+ * [Patterns for React Developers](https://github.com/chantastic/reactpatterns.com)
+
+## Project Setup
+ * [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
+ * [The 100% correct way to structure a React app](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
+ * [Organizing Large React Applications](http://engineering.kapost.com/2016/01/organizing-large-react-applications/)
+ * [How to Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
+ * [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
  * [Structure your React-Redux project for scalability and maintainability](https://levelup.gitconnected.com/structure-your-react-redux-project-for-scalability-and-maintainability-618ad82e32b7)
+ * [Facebook: Behind the Scenes - Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html)
 
 ## Advance Topics
  * [React’s new Context API](https://dev.to/kentcdodds/reacts--new-context-api-dpi)
  * [Code Splitting with React and React Router](https://medium.freecodecamp.org/code-splitting-with-react-and-react-router-62e174382d4c)
+ * [Connecting React component to Redux store with render callback](https://medium.com/netscape/connecting-react-component-to-redux-store-with-render-callback-53fd044bb42b)
 
 ## React Universal Rendering
  * [paypal/react-engine](https://github.com/paypal/react-engine)
