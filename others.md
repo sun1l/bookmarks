@@ -20,6 +20,6 @@
   * [How to exclude node_modules but one](https://github.com/webpack/webpack/issues/2031)
   * [How to handle npm modules which include es6](https://github.com/babel/babel-loader/issues/171)
 
-## PWS
+## PWA
   * [Progressive Web Apps: A Crash Course](https://www.sitepoint.com/progressive-web-apps-a-crash-course/)
   * [Service Worker Precache](https://github.com/GoogleChromeLabs/sw-precache)
