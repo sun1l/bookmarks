@@ -7,6 +7,7 @@
  * [React Components @ reactjs.org](https://reactjs.org/docs/react-component.html)
  * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
  * [Learn React Fundamentals and Advanced Patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
+ * [Clean Code vs. Dirty Code: React Best Practices](https://americanexpress.io/clean-code-dirty-code/)
  * [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
  * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
  * [Patterns for React Developers](https://github.com/chantastic/reactpatterns.com)
@@ -23,6 +24,10 @@
  * [How to build React apps on top of the WordPress REST API](https://medium.freecodecamp.org/how-to-build-react-apps-on-top-of-the-wordpress-rest-api-bcc632808025)
  * [Loading data from APIs in React](https://javascriptplayground.com/http-requests-reactjs/)
  * [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data/)
+
+## React State Management
+ * [React State Management Patterns](https://itnext.io/react-state-management-patterns-908325dbb8f3)
+ * [The React State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 
 ## React Context 
  * [How to use React's Provider Pattern](https://www.robinwieruch.de/react-provider-pattern-context/)
@@ -87,6 +92,7 @@
  * [React’s new Context API](https://dev.to/kentcdodds/reacts--new-context-api-dpi)
  * [Code Splitting with React and React Router](https://medium.freecodecamp.org/code-splitting-with-react-and-react-router-62e174382d4c)
  * [Connecting React component to Redux store with render callback](https://medium.com/netscape/connecting-react-component-to-redux-store-with-render-callback-53fd044bb42b)
+ * [Typescript + React + Recompose + Reselect](https://medium.com/front-end-hacking/typescript-react-recompose-reselect-f05c54b68d85)
 
 ## React Universal Rendering
  * [paypal/react-engine](https://github.com/paypal/react-engine)
@@ -106,7 +112,7 @@
    
 ## More ...
  * [Dockerizing a React App](http://mherman.org/blog/2017/12/07/dockerizing-a-react-app/#.Wl-FloKQxmA)
- * [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
+ * [React Architecture and Best Practices - markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
  * https://rangle-io.gitbooks.io/react-training/content/
  * https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html
  * [Example of blog built with React, Next.js, Firebase Firestore, Styled-Component, Mobx State Tree and other cool technologies](https://github.com/suevalov/next-blog-firestore)
