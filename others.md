@@ -11,7 +11,13 @@
  * [git subtree - a better alternative to git submodule](http://alistra.ghost.io/2014/11/30/git-subtree-a-better-alternative-to-git-submodule/)
  * [Why your company shouldn’t use Git submodules](https://codingkilledthecat.wordpress.com/2012/04/28/why-your-company-shouldnt-use-git-submodules/)
  * [Dependency Management Using Git Submodules](https://www.raywenderlich.com/155150/dependency-management-using-git-submodules)
-  
+
+## Lerna
+ * [The highs and lows of using Lerna to manage your JavaScript projects](https://hackernoon.com/the-highs-and-lows-of-using-lerna-to-manage-your-javascript-projects-ff5c5cd82a99)
+ * [Monorepo setup with Lerna and Yarn workspaces](https://medium.com/trabe/monorepo-setup-with-lerna-and-yarn-workspaces-5d747d7c0e91)
+ * [Sharing UI Components with Lerna and Yarn Workspaces](https://medium.com/@NareshBhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe)
+ * []()
+
 ## Performance
  * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
  * [Improving Smashing Magazine's Web Performance](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/)
