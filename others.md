@@ -33,3 +33,6 @@
  * [webpack + PostCSS + cssnext](https://blog.envylabs.com/webpack-2-postcss-cssnext-fdcd2fd7d0bd)
  * [prefetch/preload in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
  * [How to (easily) set up Node environment variables in your JS application](https://codeburst.io/how-to-easily-set-up-node-environment-variables-in-your-js-application-d06740f9b9bd)
+
+## Code Review
+ * [Code Review Best Practices](https://trishagee.github.io/presentation/code_review_best_practice/)
